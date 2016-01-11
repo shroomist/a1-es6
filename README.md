@@ -1,5 +1,9 @@
 
-The project uses [ng-forward_](https://github.com/ngUpgraders/ng-forward) sugar for angular2 syntax and style
+The project uses [ng-forward](https://github.com/ngUpgraders/ng-forward) sugar to write angular1 applications in angular 2 syntax and style
+
+Frontend is written in ES6 and transpiled using _babel_.
+
+
 It allows to search [omdb](http://www.omdbapi.com) and add to watchlist.
 watchlist is persisted with localstorage.
 
