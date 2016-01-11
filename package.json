@@ -1,0 +1,22 @@
+{
+  "name": "a1-es6",
+  "version": "1.0.0",
+  "description": "test task for producters",
+  "main": "index.js",
+  "scripts": {
+    "start": "npm run lite",
+    "lite": "lite-server"
+  },
+  "author": "Andrej Novikov",
+  "license": "ISC",
+  "dependencies": {
+    "bootstrap-less": "^3.3.8",
+    "gulp": "^3.9.0",
+    "gulp-babel": "^6.1.1",
+    "gulp-less": "^3.0.5",
+    "gulp-watch": "^4.3.5",
+    "lite-server": "^1.3.2",
+    "ng-forward": "0.0.1-alpha.11",
+    "reflect-metadata": "^0.1.3"
+  }
+}

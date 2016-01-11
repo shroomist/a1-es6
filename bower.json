@@ -1,0 +1,25 @@
+{
+  "name": "a1-es6",
+  "description": "test task for producters",
+  "main": "no main",
+  "authors": [
+    "Andrej Novikov"
+  ],
+  "license": "ISC",
+  "moduleType": [
+    "es6",
+    "globals"
+  ],
+  "homepage": "",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "ngstorage": "~0.3.10"
+  }
+}
